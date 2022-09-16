@@ -1,0 +1,16 @@
+{
+  "name": "clean-type-graphql",
+  "version": "1.0.0",
+  "description": "Projeto de Clean Architecture",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "Gabriel Muller",
+  "license": "MIT",
+  "dependencies": {
+    "@types/jest": "^29.0.3",
+    "express": "^4.18.1",
+    "jest": "^29.0.3"
+  }
+}
